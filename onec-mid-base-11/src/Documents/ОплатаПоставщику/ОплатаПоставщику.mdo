@@ -151,8 +151,8 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
-  <attributes uuid="1e9463da-d086-4d1e-9267-d0c3ef6b854d">
-    <name>ДР_КонтактноеЛицо</name>
+  <attributes uuid="a2c53c02-c8a7-4a1c-9e40-c9779297c2d5">
+    <name>ДР_КонтактныеЛица</name>
     <synonym>
       <key>ru</key>
       <value>Контактное лицо</value>
